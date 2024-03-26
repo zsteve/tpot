@@ -1,0 +1,3 @@
+[submodule "tools/partitioned_networks"]
+	path = tools/partitioned_networks
+	url = https://github.com/zsteve/partitioned_networks
