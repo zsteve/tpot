@@ -1,3 +1,6 @@
 [submodule "tools/partitioned_networks"]
 	path = tools/partitioned_networks
 	url = https://github.com/zsteve/partitioned_networks
+[submodule "tools/topf"]
+	path = tools/topf
+	url = https://github.com/vincent-grande/topf
